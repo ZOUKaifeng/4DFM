@@ -12,4 +12,4 @@ Each video will repeat three times.
 ## Label control
 
 
-<img  src="results/label_control.gif"  />
+<img  src="results/angry.gif"  />
