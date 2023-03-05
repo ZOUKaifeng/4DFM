@@ -3,4 +3,10 @@
 
 # Model architecture
 
+
 <img  src="model.jpg"  />
+
+# Video results
+Each video will repeat three times.
+
+## Label control
