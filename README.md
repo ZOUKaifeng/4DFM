@@ -1,18 +1,18 @@
 # 4DFM
 4D Facial Expression Diffusion Model
 
-## Dataset
+## 1. Dataset
 We test our method on two commonly used facial expression datasets, [**CoMA**](https://coma.is.tue.mpg.de/) and [**BU-4DFE**](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html).
 
-## Model architecture
+## 2. Model architecture
 
 
 <img  src="model.jpg"  />
 
-## Video results
+## 3. Video results
 Each video will repeat three times.
 
-### Label control
+### 3.1 Label control
 
 Examples
 
@@ -20,9 +20,9 @@ Examples
  <img src="results/angry.gif" height="270" /> <img src="results/eyebrow.gif" height="270" />  <img src="results/mouth_extreme.gif" height="270" /> <img src="results/disgust.gif" height="270" />  <img src="results/mouth_open.gif" height="270" /> <img src="results/lips_up.gif" height="270" /> 
 
 
-### Text control
+### 3.2 Text control
 
-Examples
+Text to expression examples:
 
 <center class="half">
  <img src="results/sad_text.gif" height="270" />
@@ -31,7 +31,7 @@ Examples
 </center>
 
 
-### Sequence filling
+### 3.3 Sequence filling
 
-## Code
+## 4. Code
 The code will be made available very soon!
