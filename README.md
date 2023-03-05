@@ -15,4 +15,4 @@ Examples
 
 
 
- <img src="results/angry.gif" height="270" /> <img src="results/eyebrow.gif" height="270" />  <img src="results/mouth_extreme.gif" height="270" /> <img src="results/disgust.gif" height="270" /> | <img src="results/mouth_open.gif" height="270" /> |
+ <img src="results/angry.gif" height="270" /> <img src="results/eyebrow.gif" height="270" />  <img src="results/mouth_extreme.gif" height="270" /> <img src="results/disgust.gif" height="270" />  <img src="results/mouth_open.gif" height="270" /> <img src="results/lips_up.gif" height="270" /> 
