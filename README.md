@@ -33,7 +33,7 @@ Text to expression examples:
 
 ### 3.3 Sequence filling
 
-#### Filling from the beginning.
+#### **Filling from the beginning.**
  <img src="results/ffb_1.gif" height="270" />  <img src="results/ffb_2.gif" height="270" />
 
 #### Filling in the middle.
