@@ -3,4 +3,4 @@
 
 # Model architecture
 
-<img  src="model.jog"  />
+<img  src="model.jpg"  />
