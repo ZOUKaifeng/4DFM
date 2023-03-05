@@ -13,7 +13,6 @@ Each video will repeat three times.
 
 Examples
 
-<img src="results/angry.gif" height="270" />
 
 
 | <img src="results/angry.gif" height="270" /> <img src="results/eyebrow.gif#gh-dark-mode-only" height="270" /> | <img src="results/mouth_extreme.gif#gh-light-mode-only" height="270" /> <img src="results/disgust.gif#gh-dark-mode-only" height="270" /> | <img src="results/mouth_open.gif#gh-light-mode-only" height="270" /> |
