@@ -21,8 +21,9 @@ Examples
 
 Examples
 
+<center class="half">
  <img src="results/sad_text.gif" height="270" />   <img src="results/bareteeth_text.gif" height="270" />    <img src="results/angry_mouth_down.gif" height="270" />
-
+<\center>
 
 
 ## Sequence filling
