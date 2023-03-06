@@ -17,7 +17,7 @@ Each video will repeat three times.
 Examples
 
 
- <img src="results/angry.gif" width="30%" height="30%" /> <img src="results/eyebrow.gif" />  <img src="results/mouth_extreme.gif"  /> <img src="results/disgust.gif" />  <img src="results/mouth_open.gif"  /> <img src="results/lips_up.gif" /> 
+ <img src="results/angry.gif" width="30%" height="30%" /> <img src="results/eyebrow.gif" width="30%" height="30%"  />  <img src="results/mouth_extreme.gif"  width="30%" height="30%"  /> <img src="results/disgust.gif" width="30%" height="30%"  />  <img src="results/mouth_open.gif"  width="30%" height="30%"  /> <img src="results/lips_up.gif"  width="30%" height="30%" /> 
 
 
 ### 3.2 Text control
@@ -25,23 +25,23 @@ Examples
 Text to expression examples:
 
 <center class="half">
- <img src="results/sad_text.gif" height="270" />
- <img src="results/bareteeth_text.gif" height="270" />
- <img src="results/angry_mouth_down.gif" height="270" />
+ <img src="results/sad_text.gif"  width="30%" height="30%" />
+ <img src="results/bareteeth_text.gif" width="30%" height="30%"  />
+ <img src="results/angry_mouth_down.gif"  width="30%" height="30%"  />
 </center>
 
 
 ### 3.3 Sequence filling
 
 #### Filling from the beginning.
- <img src="results/ffb_1.gif" height="270" />  <img src="results/ffb_2.gif" height="270" />
+ <img src="results/ffb_1.gif" height="270" />  <img src="results/ffb_2.gif"  width="30%" height="30%"  />
 
 #### Filling in the middle.
- <img src="results/fim_1.gif" height="270" />  <img src="results/fim_2.gif" height="270" />
+ <img src="results/fim_1.gif" height="270" />  <img src="results/fim_2.gif"  width="30%" height="30%"  />
  
  
 #### Filling from the end.
- <img src="results/ffe_1.gif" height="270" />  <img src="results/ffe_2.gif" height="270" />
+ <img src="results/ffe_1.gif" height="270" />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
 
 ## 4. Code
 The code will be made available very soon!
