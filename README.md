@@ -34,14 +34,14 @@ Text to expression examples:
 ### 3.3 Sequence filling
 
 #### Filling from the beginning.
- <img src="results/ffb_1.gif" height="270" />  <img src="results/ffb_2.gif"  width="30%" height="30%"  />
+ <img src="results/ffb_1.gif" width="30%" height="30%"  />  <img src="results/ffb_2.gif"  width="30%" height="30%"  />
 
 #### Filling in the middle.
- <img src="results/fim_1.gif" height="270" />  <img src="results/fim_2.gif"  width="30%" height="30%"  />
+ <img src="results/fim_1.gif"  width="30%" height="30%" />  <img src="results/fim_2.gif"  width="30%" height="30%"  />
  
  
 #### Filling from the end.
- <img src="results/ffe_1.gif" height="270" />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
+ <img src="results/ffe_1.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
 
 ## 4. Code
 The code will be made available very soon!
