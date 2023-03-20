@@ -47,6 +47,8 @@ Text to expression examples:
 ### 3.3 Comparison
 #### Label control
 "high smile"
+
+
  <img src="results/comp_high_smile.gif"  width="50%" height="50%"  />  
  
  
