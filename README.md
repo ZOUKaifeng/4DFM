@@ -49,7 +49,13 @@ Text to expression examples:
 "high smile"
 
 
- <img src="results/comp_high_smile.gif"  width="50%" height="50%"  />  
+ <img src="results/comp_high_smile.gif"  width="50%" height="50%"  /> 
+ 
+ #### Text control
+ 
+ <img src="results/text_comp_1.gif"  width="50%" height="50%"  /> 
+ 
+ <img src="results/text_comp_2.gif"  width="50%" height="50%"  /> 
  
  
 ## 4. Code
