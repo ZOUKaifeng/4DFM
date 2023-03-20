@@ -43,5 +43,11 @@ Text to expression examples:
 #### Filling from the end.
  <img src="results/ffe_1.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
 
+
+### 3.3 Comparison
+#### Label control
+ <img src="results/comp_high_smile.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
+ 
+ 
 ## 4. Code
 The code will be made available very soon!
