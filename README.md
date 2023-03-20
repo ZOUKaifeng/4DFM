@@ -26,7 +26,7 @@ Text to expression examples:
 
 <center class="half">
  <img src="results/sad_text.gif"  width="30%" height="30%" />
- <img src="results/bareteeth_text.gif" width="30%" height="30%"  />
+  <img src="results/bareteeth_text.gif" width="30%" height="30%"  />
  <img src="results/angry_mouth_down.gif"  width="30%" height="30%"  />
 </center>
 
@@ -46,7 +46,7 @@ Text to expression examples:
 
 ### 3.3 Comparison
 #### Label control
- <img src="results/comp_high_smile.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
+ <img src="results/comp_high_smile.gif"  width="30%" height="30%"  />  
  
  
 ## 4. Code
