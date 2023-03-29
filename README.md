@@ -25,7 +25,7 @@ Examples
 Text to expression examples:
 
 <center class="half">
- <img src="results/sad_text.gif"  width="30%" height="30%" />
+ <img src="results/sad_text.gif"  width="30%" height="30%" /> <img src="results/eyebrow1.gif"  width="30%" height="30%" />
   <img src="results/bareteeth_text.gif" width="30%" height="30%"  />
  <img src="results/angry_mouth_down.gif"  width="30%" height="30%"  />
 </center>
