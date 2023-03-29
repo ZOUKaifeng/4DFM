@@ -25,9 +25,9 @@ Examples
 Text to expression examples:
 
 
- <img src="results/sad_text.gif"  width="30%" height="30%" />            <img src="results/text_eyebrow.gif"  width="22.5%" height="22.5%" />
+ <img src="results/sad_text.gif"  width="30%" height="30%" />     <img src="results/bareteeth_text.gif" width="30%" height="30%"  /> <img src="results/angry_mouth_down.gif"  width="30%" height="30%"  />
  
-  <img src="results/bareteeth_text.gif" width="30%" height="30%"  /> <img src="results/angry_mouth_down.gif"  width="30%" height="30%"  />
+  <img src="results/text_eyebrow.gif"  width="22.5%" height="22.5%" />  <img src="results/text_mouth_down.gif"  width="22.5%" height="22.5%" />
 
 
 
