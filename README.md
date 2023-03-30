@@ -43,8 +43,10 @@ Text to expression examples:
 #### Filling from the end.
  <img src="results/ffe_1.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
 
+### 3.4 Diversity
+<img src="results/eyebrow_div.gif"  width="30%" height="30%"  /> 
 
-### 3.3 Comparison
+### 3.5 Comparison
 #### Label control
 "high smile"
 
@@ -61,7 +63,7 @@ Text to expression examples:
  
  <img src="results/text_comp_2.gif" width="50%" height="50%"  /> 
  
- ### 3.3 Expression retargeting
+ ### 3.6 Expression retargeting
  
  <img src="results/exp_retarget.gif" width="50%" height="50%"  /> 
  
