@@ -57,7 +57,7 @@ Text to expression examples:
  
  #### Text control
  
- <img src="results/text_comp_1.gif"  width="40%" height="40%"  /> 
+ <img src="results/text_comp_1.gif"  width="45%" height="45%"  /> 
  
  <img src="results/text_comp_2.gif"  width="40%" height="40%"  /> 
  
