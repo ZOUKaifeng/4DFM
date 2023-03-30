@@ -48,13 +48,17 @@ Text to expression examples:
 
 ### 3.5 Comparison
 #### Label control
+
 "high smile"
+
  <img src="results/comp_high_smile.gif"  width="50%" height="50%"  /> 
  
  "cheeks in"
+ 
  <img src="results/comp_cheeks_in.gif"  width="50%" height="50%"  /> 
  
  "mouth open"
+ 
  <img src="results/comp_mouth_open.gif"  width="50%" height="50%"  /> 
  
  #### Text control
