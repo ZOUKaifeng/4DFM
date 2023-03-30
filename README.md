@@ -44,7 +44,7 @@ Text to expression examples:
  <img src="results/ffe_1.gif"  width="30%" height="30%"  />  <img src="results/ffe_2.gif"  width="30%" height="30%"  />
 
 ### 3.4 Diversity
-<img src="results/eyebrow_div.gif"  width="30%" height="30%"  /> 
+<img src="results/eyebrow_div.gif"  width="50%" height="50%"  /> 
 
 ### 3.5 Comparison
 #### Label control
