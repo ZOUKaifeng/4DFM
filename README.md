@@ -10,7 +10,6 @@ We test our method on two commonly used facial expression datasets, [**CoMA**](h
 <img  src="model.jpg"  />
 
 ## 3. Video results
-Each video will repeat three times.
 
 ### 3.1 Label control
 
