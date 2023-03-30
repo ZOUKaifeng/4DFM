@@ -17,7 +17,7 @@ Each video will repeat three times.
 Examples
 
 
- <img src="results/angry.gif" width="30%" height="30%" /> <img src="results/eyebrow.gif" width="30%" height="30%"  />  <img src="results/mouth_extreme.gif"  width="30%" height="30%"  /> <img src="results/disgust.gif" width="30%" height="30%"  />  <img src="results/mouth_open.gif"  width="30%" height="30%"  /> <img src="results/lips_up_2.gif"  width="30%" height="30%" /> 
+ <img src="results/angry.gif" width="30%" height="30%" /> <img src="results/eyebrow.gif" width="30%" height="30%"  />  <img src="results/mouth_extreme.gif"  width="30%" height="30%"  /> <img src="results/disgust.gif" width="30%" height="30%"  />  <img src="results/mouth_open.gif"  width="30%" height="30%"  /> <img src="results/lips_up.gif"  width="30%" height="30%" /> 
 
 
 ### 3.2 Text control
