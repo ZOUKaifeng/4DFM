@@ -61,6 +61,9 @@ Text to expression examples:
  
  <img src="results/text_comp_2.gif" width="50%" height="50%"  /> 
  
+ ### 3.3 Expression retargeting
+ 
+ <img src="results/exp_retarget.gif" width="50%" height="50%"  /> 
  
 ## 4. Code
 The code will be made available very soon!
