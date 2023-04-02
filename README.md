@@ -50,6 +50,7 @@ Text to expression examples:
 #### Diversity of Geometry-adaptive generation
 <img src="results/eyebrow_div.gif"  width="50%" height="50%"  /> 
 
+<img src="results/mouth_extreme_gd.gif"  width="50%" height="50%"  /> 
 
 
 ### 3.5 Comparison
