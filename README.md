@@ -45,17 +45,23 @@ Text to expression examples:
 ### 3.4 Diversity
 
 #### Diversity of label control
+
 mouth side
+
 <img src="results/mouth_side_d.gif"  width="50%" height="50%"  /> 
 
 mouth up
+
 <img src="results/mouth_up_d.gif"  width="50%" height="50%"  /> 
 
 #### Diversity of Geometry-adaptive generation
+
 eyebrow
+
 <img src="results/eyebrow_div.gif"  width="50%" height="50%"  /> 
 
 mouth extreme
+
 <img src="results/mouth_extreme_gd.gif"  width="50%" height="50%"  /> 
 
 
