@@ -60,10 +60,6 @@ eyebrow
 
 <img src="results/eyebrow_div.gif"  width="50%" height="50%"  /> 
 
-mouth extreme
-
-<img src="results/mouth_extreme_gd.gif"  width="50%" height="50%"  /> 
-
 
 ### 3.5 Comparison
 #### Label control
