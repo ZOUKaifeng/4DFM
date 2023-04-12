@@ -61,6 +61,10 @@ eyebrow
 <img src="results/eyebrow_div.gif"  width="50%" height="50%"  /> 
 
 
+lips up
+
+<img src="results/div_lips_up.gif"  width="50%" height="50%"  /> 
+
 ### 3.5 Comparison
 #### Label control
 
