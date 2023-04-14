@@ -13,6 +13,8 @@ We test our method on two commonly used facial expression datasets, [**CoMA**](h
 
 ### 3.1 Label control
 
+We perform a conditional generation according to the expression label y. 
+
 Examples
 
 
@@ -20,6 +22,9 @@ Examples
 
 
 ### 3.2 Text control
+We perform a conditional generation according to a text. Note that the input texts “disgust high smile” and “angry mouth down” are the combinations of two terms used for training. For instance, “disgust high smile” is a new description that hasn’t been seen before, which combines “disgust” and “high smile”.
+
+
 
 Text to expression examples:
 
@@ -31,6 +36,8 @@ Text to expression examples:
 
 
 ### 3.3 Sequence filling
+
+Similarly to inpainting whose purpose is to predict missing pixels of an image using a mask region as a condition, this task aims to predict missing frames of a temporal sequence by leveraging known frames as a condition.
 
 #### Filling from the beginning.
  <img src="results/ffb_1.gif" width="30%" height="30%"  />  <img src="results/ffb_2.gif"  width="30%" height="30%"  />
@@ -44,7 +51,12 @@ Text to expression examples:
 
 ### 3.4 Diversity
 
+The specific aim of the 3D facial animation generation is to learn a model that can generate facial expressions that are realistic, appearance-
+preserving, rich in diversity, with various ways to condition it. 
+
 #### Diversity of label control
+
+The diversity of the generated sequences in terms of expression is shown hereafter. The meshes are obtained by retargeting the expression of the generated 𝑥0 on the same neutral faces.
 
 mouth side
 
@@ -55,6 +67,8 @@ mouth up
 <img src="results/mouth_up_d.gif"  width="50%" height="50%"  /> 
 
 #### Diversity of Geometry-adaptive generation
+In the Geometry-adaptive generation task, we generate a facial expression from a given facial anatomy. This task can also be guided by a classifier. In order to benefit from the consistent and quality expressions adapted to the facial morphology by the DDPM, one can extract a landmark set 𝐿 from a mesh 𝑀, perform the geometry-adaptive task on it to generate a sequence involving 𝐿, and retarget it to 𝑀 by the landmark-guided mesh deformation. We show hereafter the diversity of the generated sequences.
+
 
 eyebrow
 
@@ -67,9 +81,6 @@ lips up
 
 ### 3.5 Comparison
 #### Label control
-
-We perform a conditional generation according to the expression label y. 
-Conditioning the reverse process of an unconditional DDPM is achieved here by using classifier-guidance. 
 
 "high smile"
 
@@ -91,6 +102,8 @@ Conditioning the reverse process of an unconditional DDPM is achieved here by us
  
  ### 3.6 Expression retargeting
  
+The landmark sequence taken from a full sequence of the CoMA dataset is retargeted onto several facial meshes.
+
  <img src="results/exp_retarget.gif" width="50%" height="50%"  /> 
  
 ## 4. Code
