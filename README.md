@@ -68,6 +68,9 @@ lips up
 ### 3.5 Comparison
 #### Label control
 
+We perform a conditional generation according to the expression label y. 
+Conditioning the reverse process of an unconditional DDPM is achieved here by using classifier-guidance. 
+
 "high smile"
 
  <img src="results/comp_high_smile.gif"  width="50%" height="50%"  /> 
