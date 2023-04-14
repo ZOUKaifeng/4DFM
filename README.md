@@ -102,7 +102,7 @@ lips up
  
  ### 3.6 Expression retargeting
  
-The landmark sequence taken from a full sequence of the CoMA dataset is retargeted onto several facial meshes.
+The landmark sequence taken from a sequence of the CoMA dataset is retargeted onto several facial meshes.
 
  <img src="results/exp_retarget.gif" width="50%" height="50%"  /> 
  
