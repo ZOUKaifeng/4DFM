@@ -109,11 +109,7 @@ The landmark sequence taken from a sequence of the CoMA dataset is retargeted on
 ### 3.7 Speech transfer
 Transfering speech to several subjects with the same landmark sequence.
 
-<img src="results/video0.gif" width="30%" height="30%"  /> 
-   
-<img src="results/video4.gif" width="30%" height="30%"  /> 
-      
-<img src="results/video1.gif" width="30%" height="30%"  /> 
+<img src="results/video0.gif" width="30%" height="30%"  />     <img src="results/video4.gif" width="30%" height="30%"  />   <img src="results/video1.gif" width="30%" height="30%"  /> 
  
 ## 4. Code
 The code will be made available very soon!
